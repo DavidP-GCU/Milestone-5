@@ -1,0 +1,13 @@
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\bin\Debug\My Inventory Management System.exe.config
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\bin\Debug\My Inventory Management System.exe
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\bin\Debug\My Inventory Management System.pdb
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\obj\Debug\My Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\obj\Debug\My Inventory Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\obj\Debug\My_Inventory_Management_System.InventoryManagementSystem.resources
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\obj\Debug\My_Inventory_Management_System.Properties.Resources.resources
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\obj\Debug\My Inventory Management System.csproj.GenerateResource.cache
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\obj\Debug\My Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\obj\Debug\My Inventory Management System.exe
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\obj\Debug\My Inventory Management System.pdb
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\obj\Debug\My_Inventory_Management_System.CloseApp.resources
+C:\Users\David\source\repos\My Inventory Management System\My Inventory Management System\obj\Debug\My_Inventory_Management_System.RequestItemsForm.resources
